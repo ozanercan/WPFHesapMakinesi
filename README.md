@@ -4,8 +4,7 @@
 Bu yazılım Üniversite 1. sınıfta, WPF'i ilk denemeye başladığım zamanlarda ödev olarak hazırladığım yazılımdır. Temiz kod yazılmamış, renklendirme kodlarında çok fazla tekrar kod bulunmaktadır.
 
 ## Kurulum Dosyaları
-Herhangi bir ek programa ihtiyaç gerekmemektedir.
-
+Herhangi bir ek programa ihtiyaç duyulmamaktadır.
 ### Görseller
 
 ##### Hesap Makinası Sayfası
