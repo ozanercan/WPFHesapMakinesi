@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackGroundThemeColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Beyaz</Value>
+    </Setting>
+    <Setting Name="ButtonBackGroundColor1nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">555</Value>
+    </Setting>
+    <Setting Name="ButtonBackGroundColor2nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#E7E5DF</Value>
+    </Setting>
+    <Setting Name="ButtonForeGroundColor1nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#77CDBC</Value>
+    </Setting>
+    <Setting Name="ButtonForeGroundColor2nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#E7BB41</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
